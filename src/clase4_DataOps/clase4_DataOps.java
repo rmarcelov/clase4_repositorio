@@ -17,6 +17,7 @@ public class clase4_DataOps {
         // procesar datos
         suma=n1+n2;
         // salida de datos
+        System.out.print("Ver resultados ");
         System.out.print("La suma de los numeros es: " + suma);
 
     }
